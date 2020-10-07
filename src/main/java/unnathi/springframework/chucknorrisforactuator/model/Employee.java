@@ -10,7 +10,7 @@ public class Employee {
     private int employeeId;
     private String employeeSalary;
     private int employeeAge;
-    Private int test;
+    private int test;
     public int getEmployeeId() {
         return employeeId;
     }
